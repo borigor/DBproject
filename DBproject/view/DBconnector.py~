@@ -16,7 +16,7 @@ class DBConnector:
                           init_command='set names UTF8')
     host = "localhost"
     user = "root"
-    password = ""
+    password = "straustrup288"
     dataBase = "DBproject"
 
 
